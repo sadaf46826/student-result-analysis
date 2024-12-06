@@ -17,7 +17,3 @@ This project analyzes student performance data to derive meaningful insights. Us
 ## Dataset
 The analysis is based on the `student.csv` dataset, which should be placed in the same directory as the notebook.
 
-## Setup Instructions
-1. Install the required Python libraries:
-   ```bash
-   pip install pandas seaborn matplotlib numpy
