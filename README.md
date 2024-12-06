@@ -13,21 +13,3 @@ Matplotlib: For creating static, interactive, and animated visualizations.
 NumPy: For numerical computations.
 Dataset
 The analysis is based on the student.csv dataset, which should be placed in the same directory as the notebook.
-
-Setup Instructions
-Install the required Python libraries:
-bash
-Copy code
-pip install pandas seaborn matplotlib numpy
-Ensure the student.csv dataset is in the project directory.
-Run the notebook using Jupyter Notebook or JupyterLab.
-Usage
-Open the notebook file in Jupyter Notebook.
-Run the cells sequentially to explore and analyze the dataset.
-View the generated plots and summaries for insights.
-Contribution
-Contributions are welcome! Please submit a pull request with detailed changes.
-
-Acknowledgments
-This project uses open-source Python libraries and a sample dataset to demonstrate student performance analysis.
-
